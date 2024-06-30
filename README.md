@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/araviind-p/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/araviind-p/LeetCode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
