@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/araviind-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/araviind-p/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/araviind-p/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/araviind-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/araviind-p/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/araviind-p/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/araviind-p/LeetCode/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/araviind-p/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
