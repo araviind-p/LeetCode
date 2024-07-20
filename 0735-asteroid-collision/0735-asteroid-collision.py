@@ -5,14 +5,14 @@ class Solution:
         stack = []
         for val in asteroids:
             while stack and stack[-1] > 0 and val < 0:
-                if stack[-1] == -val:
+                diff = val + stack[-1]
+                if diff < 0:
                     stack.pop()
-                    break
-                elif stack[-1] > -val:
-                    break
+                elif diff > 0:
+                    val=0
                 else:
+                    val=0
                     stack.pop()
-                    continue
-            else:
+            if val:
                 stack.append(val)
         return stack
