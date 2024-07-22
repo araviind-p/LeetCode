@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/araviind-p/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/araviind-p/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/araviind-p/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/araviind-p/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/araviind-p/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/araviind-p/LeetCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/araviind-p/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/araviind-p/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/araviind-p/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/araviind-p/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/araviind-p/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
