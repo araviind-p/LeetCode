@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/araviind-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/araviind-p/LeetCode/tree/master/0035-search-insert-position) |
+| [0219-contains-duplicate-ii](https://github.com/araviind-p/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/araviind-p/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/araviind-p/LeetCode/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/araviind-p/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/araviind-p/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/araviind-p/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/araviind-p/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/araviind-p/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0782-jewels-and-stones](https://github.com/araviind-p/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/araviind-p/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/araviind-p/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
