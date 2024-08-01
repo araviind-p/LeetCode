@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/araviind-p/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/araviind-p/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/araviind-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/araviind-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/araviind-p/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
