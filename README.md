@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/araviind-p/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/araviind-p/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/araviind-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/araviind-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/araviind-p/LeetCode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
