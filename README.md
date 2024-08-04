@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/araviind-p/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/araviind-p/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/araviind-p/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2331-intersection-of-multiple-arrays](https://github.com/araviind-p/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/araviind-p/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/araviind-p/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/araviind-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/araviind-p/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/araviind-p/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/araviind-p/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/araviind-p/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/araviind-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/araviind-p/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/araviind-p/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/araviind-p/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/araviind-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/araviind-p/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2331-intersection-of-multiple-arrays](https://github.com/araviind-p/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Simulation
 |  |
 | ------- |
