@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/araviind-p/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/araviind-p/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/araviind-p/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/araviind-p/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/araviind-p/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/araviind-p/LeetCode/tree/master/0338-counting-bits) |
 ## Greedy
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/araviind-p/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/araviind-p/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/araviind-p/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
