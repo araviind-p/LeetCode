@@ -3,15 +3,15 @@
  * @param {string} word
  * @return {number}
  */
-var maxRepeating = function(sequence, word) {
-    if(!sequence.includes(word)){
+var maxRepeating = function (sequence, word) {
+    if (!sequence.includes(word)) {
         return 0;
     }
-    let curr=word
-    let count=0
-    while(sequence.includes(curr)){
+    let curr = word
+    let count = 0
+    while (sequence.includes(curr)) {
         count++
-        curr+=word
+        curr += word
     }
     return count
 };
