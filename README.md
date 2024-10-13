@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/araviind-p/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/araviind-p/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1764-maximum-repeating-substring](https://github.com/araviind-p/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/araviind-p/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/araviind-p/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/araviind-p/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/araviind-p/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1764-maximum-repeating-substring](https://github.com/araviind-p/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/araviind-p/LeetCode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/araviind-p/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
