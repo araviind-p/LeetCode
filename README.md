@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/araviind-p/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/araviind-p/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2331-intersection-of-multiple-arrays](https://github.com/araviind-p/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/araviind-p/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/araviind-p/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/araviind-p/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/araviind-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/araviind-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/araviind-p/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/araviind-p/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/araviind-p/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
