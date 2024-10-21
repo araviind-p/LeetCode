@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/araviind-p/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/araviind-p/LeetCode/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/araviind-p/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/araviind-p/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/araviind-p/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/araviind-p/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/araviind-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/araviind-p/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/araviind-p/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/araviind-p/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/araviind-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/araviind-p/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/araviind-p/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/araviind-p/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/araviind-p/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1256-rank-transform-of-an-array](https://github.com/araviind-p/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/araviind-p/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/araviind-p/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/araviind-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
