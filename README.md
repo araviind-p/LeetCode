@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/araviind-p/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/araviind-p/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/araviind-p/LeetCode/tree/master/0338-counting-bits) |
 ## Greedy
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/araviind-p/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/araviind-p/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/araviind-p/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/araviind-p/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/araviind-p/LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/araviind-p/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 ## Design
