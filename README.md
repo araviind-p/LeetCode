@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/araviind-p/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/araviind-p/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/araviind-p/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/araviind-p/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/araviind-p/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/araviind-p/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/araviind-p/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/araviind-p/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/araviind-p/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
