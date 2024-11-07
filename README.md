@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/araviind-p/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/araviind-p/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/araviind-p/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/araviind-p/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1764-maximum-repeating-substring](https://github.com/araviind-p/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/araviind-p/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
