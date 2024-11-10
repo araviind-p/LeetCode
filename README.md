@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/araviind-p/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/araviind-p/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/araviind-p/LeetCode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/araviind-p/LeetCode/tree/master/1635-number-of-good-pairs) |
