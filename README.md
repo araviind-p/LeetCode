@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/araviind-p/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/araviind-p/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/araviind-p/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/araviind-p/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/araviind-p/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/araviind-p/LeetCode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/araviind-p/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/araviind-p/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/araviind-p/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/araviind-p/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/araviind-p/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/araviind-p/LeetCode/tree/master/0263-ugly-number) |
@@ -310,5 +312,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/araviind-p/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/araviind-p/LeetCode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/araviind-p/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
