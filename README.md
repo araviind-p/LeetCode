@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/araviind-p/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/araviind-p/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/araviind-p/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/araviind-p/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/araviind-p/LeetCode/tree/master/0735-asteroid-collision) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/araviind-p/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/araviind-p/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/araviind-p/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
