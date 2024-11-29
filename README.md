@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/araviind-p/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/araviind-p/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/araviind-p/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/araviind-p/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Stack
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/araviind-p/LeetCode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/araviind-p/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/araviind-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/araviind-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/araviind-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/araviind-p/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
